@@ -1,1 +1,3 @@
 Hello world
+We are learning about git.
+And right now , I am editing the file.
